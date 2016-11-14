@@ -1,0 +1,68 @@
+body {
+	background-image: url("../images/crystal.png");
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: deeppink;
+}
+
+.header {
+	margin: 0 auto;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+
+
+.rules {
+	background-color: gainsboro;
+	width: 50%;
+	clear: both;
+	padding: 15px;
+	margin-top: 20px;
+	font-size: 20px;
+	text-align: left;
+	border: solid 1px #ddd
+}
+
+#points {
+	background-color: gainsboro;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+#score {
+	background-color: gainsboro;
+	display: inline-block;
+	float: left;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+#addition {
+	width:180px;
+	height:90px;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: gainsboro;
+	font-size: 30px;
+	float: left;
+	display: inline-block;
+	color: deeppink;
+}
+
+#total {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	font-size: 30px;
+	width: 200px;
+	height: 100px;
+	color: deeppink;
+}
+
